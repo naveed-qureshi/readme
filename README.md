@@ -11,7 +11,7 @@ This will create on your computer a clone (identical directory structure) of the
 > If your professor makes any changes to the workshop or a new workshop is released, you can right click on the cloned repository directory and select **Tortoise Git/pull** to update and sync your local workshops repositoryy to the one on Github with-out having to download it again. Note that this will only apply the changes made and will not affect any work that you have done on your workshop.
 #### Using Command line
 
----text
+```text
 -->>> My Shopping List <<<--
 1-[ ]Oranges qty:(4)
 2-[ ]Apples qty:(4)
@@ -22,3 +22,4 @@ This will create on your computer a clone (identical directory structure) of the
 7-[ ]Lundry Detergent liquic qty:(1)
 8-[ ]Lundry Detergent pods qty:(1)
 ----------------------------
+```
